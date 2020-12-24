@@ -1,4 +1,4 @@
-![](https://github.com/rekha0suthar/SnapShot/issues/1)
+![Screenshot from 2020-12-24 09-58-31](https://user-images.githubusercontent.com/71004640/103063058-2d48dd80-45d6-11eb-8e75-913fd5909e2b.png)
 
 ### Summary
 
