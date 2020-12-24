@@ -1,7 +1,4 @@
-![x-special/nautilus-clipboard
-copy
-file:///home/rekha/Pictures/Screenshot%20from%202020-12-24%2009-58-31.png
-](Screenshot from 2020-12-24 09-58-31.png)
+![](file:///home/rekha/Pictures/Screenshot%20from%202020-12-24%2009-58-31.png)
 
 ### Summary
 
