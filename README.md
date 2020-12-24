@@ -1,4 +1,4 @@
-![](file:///home/rekha/Pictures/Screenshot%20from%202020-12-24%2009-58-31.png)
+![](https://github.com/rekha0suthar/SnapShot/issues/1)
 
 ### Summary
 
